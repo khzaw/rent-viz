@@ -18,7 +18,6 @@ class UtilsChart extends Component {
         domainPadding={{ x: 20, y: [ 0, 20 ] }}
         name="2018"
         theme={VictoryTheme.material}
-        scale={{ x: 'time '}}
       >
       <VictoryBar
         style={{ data: { fill: '#c43a31' } }}
