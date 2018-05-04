@@ -1,0 +1,13 @@
+{
+  "name": "rent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "prop-types": "^15.6.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "src": "^1.1.2",
+    "victory": "^0.26.0"
+  }
+}
